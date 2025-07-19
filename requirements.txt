@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+crewai
+huggingface_hub
+langchain
+python-dotenv
+redis
+celery
+langchain_community
+pydantic
